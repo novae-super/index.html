@@ -1,0 +1,47 @@
+title{
+    font-family: cursive;
+}
+body{
+    margin: 0; 
+	padding: 0;
+    background: darkolivegreen url(https://cdn.pixabay.com/photo/2017/07/12/03/40/frog-2495715_960_720.png) no-repeat right;
+}
+#header1{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+   
+
+}
+#intro{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+#list{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+li{
+    text-align: center;
+}
+#header2{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+#table{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    border-style: double;
+    empty-cells: hide
+}
+td{
+    border-style: solid;
+}
+#conclusion{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
